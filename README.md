@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @warukira-m
+- 👋 Hi, I’m warukira.
 - 👀 I’m interested in Technical Product Management.
 - 🌱 I’m currently learning Project Management.
 
